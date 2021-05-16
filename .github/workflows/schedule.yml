@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/junmin-Chang/37eec712e23e3825b045d7d1befa0925
+          GIST_ID: 37eec712e23e3825b045d7d1befa0925
           TIMEZONE: Asia/Seoul
