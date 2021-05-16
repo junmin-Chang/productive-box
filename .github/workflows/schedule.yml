@@ -12,6 +12,6 @@ jobs:
       - name: Update gist
         uses: maxam2017/productive-box@master
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 9842e074b8ee46aef76fd0d493bae0ed
-          TIMEZONE: Asia/Taipei
+          GH_TOKEN: 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
+          GIST_ID: https://gist.github.com/junmin-Chang/37eec712e23e3825b045d7d1befa0925
+          TIMEZONE: Asia/Seoul
